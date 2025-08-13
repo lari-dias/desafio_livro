@@ -82,10 +82,4 @@ O CSS usa **variáveis** para facilitar manutenção e personalização da palet
 - Mudança de cor e efeito hover nos botões.
 - Acessível e chamativo para o usuário.
 
-  ## Imagens projeto
 
-  <img width="1365" height="767" alt="Image" src="https://github.com/user-attachments/assets/713834ab-6d10-4ead-a060-73e2508158bd" />
-
-<img width="1365" height="757" alt="Image" src="https://github.com/user-attachments/assets/371f3cc4-cce8-4fdc-b6e8-b48d88306ba2" />
-
-<img width="1362" height="760" alt="Image" src="https://github.com/user-attachments/assets/3341e6db-2148-4bb0-986b-3f16c7382538" />
