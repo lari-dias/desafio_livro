@@ -14,15 +14,15 @@ Este projeto é uma página web para apresentação e divulgação do livro A Er
 
 O site inclui:
 
-Informações principais sobre o livro.
+- Informações principais sobre o livro.
 
-Sinopse envolvente.
+- Sinopse envolvente.
 
-Apresentação do autor.
+- Apresentação do autor.
 
-Links para redes sociais.
+- Links para redes sociais.
 
-Chamada para compra com botões estilizados.
+- Chamada para compra com botões estilizados.
 
 ## 🎯 Objetivo
 
@@ -30,23 +30,23 @@ Criar uma landing page simples, elegante e responsiva, focada em destacar o livr
 
 ## 🛠️ Tecnologias Utilizadas
 
-HTML5 para estruturação do conteúdo.
+- HTML5 para estruturação do conteúdo.
 
-CSS3 para estilização e responsividade.
+- CSS3 para estilização e responsividade.
 
-Font Awesome para ícones de redes sociais.
+- Font Awesome para ícones de redes sociais.
 
-Favicon personalizado para identidade visual.
+- Favicon personalizado para identidade visual.
 
 ## 🎨 Principais Recursos de Estilo
 
-Paleta de cores: tons de verde, branco e preto para contraste e destaque.
+- Paleta de cores: tons de verde, branco e preto para contraste e destaque.
 
-Layout centralizado: conteúdo alinhado verticalmente com espaçamento equilibrado.
+- Layout centralizado: conteúdo alinhado verticalmente com espaçamento equilibrado.
 
-Tipografia: fonte Tahoma para leitura clara e moderna.
+- Tipografia: fonte Tahoma para leitura clara e moderna.
 
-Botões interativos: efeito hover e transição suave.
+- Botões interativos: efeito hover e transição suave.
 
 Imagens otimizadas: capa do livro e foto do autor.
 
