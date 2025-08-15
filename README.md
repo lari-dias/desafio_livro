@@ -19,13 +19,13 @@ Destacar o livro de forma simples, elegante e responsiva, incentivando a compra 
 
 ## 🛠️ Tecnologias
 
-HTML5
+- HTML5
 
-CSS3
+- CSS3
 
-Font Awesome
+- Font Awesome
 
-Favicon personalizado
+- Favicon personalizado
 
 ## 🎨 Estilo
 
