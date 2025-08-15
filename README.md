@@ -1,4 +1,12 @@
-📚 A Era Artificial
+## 📚 A Era Artificial
+
+
+
+
+
+
+
+
 <img src="./img/capa-livro.jpg" alt="Capa do livro A Era Artificial" width="190px" />
 
 ## 📖 Sobre o Projeto
