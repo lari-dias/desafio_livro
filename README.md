@@ -1,54 +1,45 @@
-## 📚 A Era Artificial
-
-
-
-
-
-
-
+📚 A Era Artificial
 <img src="./img/capa-livro.jpg" alt="Capa do livro A Era Artificial" width="190px" />
+📖 Sobre o Projeto
 
-## 📖 Sobre o Projeto
+Este projeto consiste em uma página web dedicada à apresentação e divulgação do livro A Era Artificial — um romance de ficção científica que mergulha o leitor em um futuro sombrio, marcado pela ascensão das máquinas e pelo declínio da humanidade.
 
-Este projeto é uma página web para apresentação e divulgação do livro A Era Artificial, um romance de ficção científica que explora um futuro sombrio da humanidade diante da ascensão das máquinas.
+A página oferece:
 
-O site inclui:
+Informações essenciais sobre o livro.
 
-- Informações principais sobre o livro.
+Uma sinopse envolvente.
 
-- Sinopse envolvente.
+Apresentação do autor.
 
-- Apresentação do autor.
+Links diretos para redes sociais.
 
-- Links para redes sociais.
+Botões estilizados para compra da obra.
 
-- Chamada para compra com botões estilizados.
+🎯 Objetivo
 
-## 🎯 Objetivo
+Desenvolver uma landing page simples, elegante e responsiva, com foco em destacar o livro e incentivar a compra, transmitindo a atmosfera tecnológica e sombria que permeia a narrativa.
 
-Criar uma landing page simples, elegante e responsiva, focada em destacar o livro e incentivar a compra, transmitindo a atmosfera tecnológica e sombria da obra.
+🛠️ Tecnologias Utilizadas
 
-## 🛠️ Tecnologias Utilizadas
+HTML5 – Estruturação semântica do conteúdo.
 
-- HTML5 para estruturação do conteúdo.
+CSS3 – Estilização visual e responsividade.
 
-- CSS3 para estilização e responsividade.
+Font Awesome – Ícones para redes sociais.
 
-- Font Awesome para ícones de redes sociais.
+Favicon personalizado – Reforço da identidade visual.
 
-- Favicon personalizado para identidade visual.
+🎨 Recursos de Estilo
 
-## 🎨 Principais Recursos de Estilo
+Paleta de cores: combinações de verde, branco e preto para contraste e imersão.
 
-- Paleta de cores: tons de verde, branco e preto para contraste e destaque.
+Layout centralizado: organização equilibrada e foco no conteúdo principal.
 
-- Layout centralizado: conteúdo alinhado verticalmente com espaçamento equilibrado.
+Tipografia: fonte Tahoma, garantindo clareza e modernidade.
 
-- Tipografia: fonte Tahoma para leitura clara e moderna.
-
-- Botões interativos: efeito hover e transição suave.
+Botões interativos: efeitos hover e transições suaves para melhor experiência.
 
 Imagens otimizadas: capa do livro e foto do autor.
 
-Responsividade: adaptável para diferentes tamanhos de tela (via responsive.css).
-
+Responsividade: design adaptável para diferentes dispositivos (via responsive.css).
