@@ -1,85 +1,80 @@
-# A Era Artificial - Projeto do Desafio Dev Media
+🍞 Padaria Plus - Projeto de Página Web Responsiva
 
-<img src="./img/capa-livro.jpg" alt="Capa do livro" width="190px" />
+📋 Sobre o Projeto
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML) 
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS) 
-[![Font Awesome](https://img.shields.io/badge/Font_Awesome-528DD7?style=for-the-badge&logo=fontawesome&logoColor=white)](https://fontawesome.com/)
+Página web fictícia criada para apresentar a Padaria Plus, com design acolhedor e foco em responsividade e experiência do usuário.
 
----
+Principais características:
 
-## Sobre o Projeto
+Layout centralizado e organizado.
 
-Página web desenvolvida como parte do **Desafio Dev Media**, com foco em:
+Sessões bem definidas: apresentação, produtos e contato.
 
-- Layout organizado em **container centralizado**.
-- **Sessões claras**: informações do livro, sinopse, autor e marketing.
-- **Favicon personalizado**.
-- **Redes sociais do autor** com ícones do Font Awesome.
-- **Meta descrição** para SEO.
-- **Variáveis CSS** para facilitar manutenção das cores.
-- **Efeitos nos links de compra** (hover e transições).
+Uso de Favicon personalizado.
 
-🎯 O objetivo é criar uma página elegante e **responsiva** para o livro **"A Era Artificial"**.
+Ícones de redes sociais com Font Awesome.
 
----
+Variáveis CSS para facilitar a manutenção das cores.
 
-## Sessões da Página
+Botões com efeitos hover e transições suaves.
 
-1. **Informações do livro** – Título, capa, subtítulo e resumo.
-2. **Sinopse do livro** – Narrativa envolvente.
-3. **Sobre o autor** – Foto redonda, descrição e redes sociais com ícones.
-4. **Marketing do livro** – Chamadas para ação com **links de compra estilizados**.
+🎯 Objetivo: Criar um site visualmente agradável para destacar os produtos artesanais da padaria.
 
----
+📑 Sessões da Página
 
-## Responsividade
+Cabeçalho – Logo e menu de navegação.
 
-A página foi desenvolvida para ser **totalmente responsiva**, garantindo boa experiência em **desktop, tablet e celular**.
+Destaque – Título, subtítulo, texto de apresentação e imagem da vitrine.
 
-- **Imagens do livro e do autor** se ajustam automaticamente em telas menores.
-- **Fontes e títulos** diminuem de tamanho conforme a largura da tela.
-- **Padding e margens** se adaptam para manter o layout limpo e legível.
-- **Redes sociais** mudam de linha em telas pequenas, mantendo o alinhamento central.
-- **Botões e links de compra** mantêm proporção e acessibilidade em dispositivos móveis.
+Botão de Endereço – Link direto para localização da padaria.
 
-📱 Testada em várias resoluções, garantindo que o conteúdo seja sempre visível e organizado.
+Produtos Artesanais – Pães, doces e pizzas, com descrição e imagens.
 
----
+Rodapé – Redes sociais e direitos autorais.
 
-## Redes Sociais do Autor
+📱 Responsividade
 
-- <i class="fab fa-facebook-square"></i> [Facebook](#)
-- <i class="fab fa-instagram"></i> [Instagram](#)
-- <i class="fab fa-tiktok"></i> [TikTok](#)
+O layout é totalmente responsivo, adaptando-se a diferentes tamanhos de tela:
 
----
+Imagens ajustáveis automaticamente.
 
-## Créditos
+Fontes e títulos proporcionais ao tamanho da tela.
 
-- Desafio do **Dev Media**.
-- Conteúdo fictício do livro: **"A Era Artificial"**.
-- Autor fictício: Diego Souza.
-- Ícones: **Font Awesome**.
+Navegação adaptável para espaços menores.
 
----
+Botões sempre acessíveis e clicáveis.
 
-## Meta Descrição & SEO
+✅ Testado em desktop, tablet e smartphone.
 
-Inclui meta tags para melhorar **SEO**, descrevendo o livro para motores de busca.
+🌐 Redes Sociais
 
----
+<i class="fab fa-facebook-square"></i> Facebook
 
-## Variáveis de Cores
+<i class="fab fa-instagram"></i> Instagram
 
-O CSS usa **variáveis** para facilitar manutenção e personalização da paleta de cores.
+<i class="fab fa-tiktok"></i> TikTok
 
----
+🎨 Paleta de Cores
+Variável	Cor	Uso
+--primary-color	#fff8f0	Fundo principal
+--secondary-color	#5c3a21	Textos e destaques
+--accent-color	#e7b56a	Botões e elementos de destaque
+--highlight-color	#f5d6a1	Fundo do rodapé
+--font-color	#3b1f0c	Texto padrão
+✨ Efeitos Visuais
 
-## Efeitos nos Links de Compra
+Transições suaves em botões e links.
 
-- Transições suaves ao passar o mouse.
-- Mudança de cor e efeito hover nos botões.
-- Acessível e chamativo para o usuário.
+Mudança de cor no hover.
 
+Bordas arredondadas e sombras leves nas imagens.
 
+🛠 Créditos
+
+Projeto fictício desenvolvido para fins de estudo.
+
+Ícones: Font Awesome.
+
+Fontes: Google Fonts (Poppins, Heebo, Lato).
+
+Se você quiser, posso adicionar uma prévia visual da página com imagens no README para deixar mais profissional no GitHub. Isso ajudaria muito na apresentação.
