@@ -1,80 +1,46 @@
-🍞 Padaria Plus - Projeto de Página Web Responsiva
+## 🍞 Padaria Plus
 
-📋 Sobre o Projeto
+Projeto de página web responsiva para a Padaria Plus, destacando seus produtos artesanais, história e canais de contato.
+O design foi pensado para transmitir aconchego e tradição, utilizando cores quentes e fontes modernas, além de garantir boa usabilidade em dispositivos móveis.
 
-Página web fictícia criada para apresentar a Padaria Plus, com design acolhedor e foco em responsividade e experiência do usuário.
+## 📋 Descrição
 
-Principais características:
+A Padaria Plus é apresentada por meio de uma página HTML estilizada com CSS e Font Awesome, oferecendo:
 
-Layout centralizado e organizado.
+Seção inicial com logo, menu de navegação e chamada principal.
 
-Sessões bem definidas: apresentação, produtos e contato.
+Área de destaque com história da padaria, imagem da vitrine e botão de endereço.
 
-Uso de Favicon personalizado.
+Galeria de produtos: pães, doces e pizzas artesanais.
 
-Ícones de redes sociais com Font Awesome.
+Rodapé com redes sociais e direitos autorais.
 
-Variáveis CSS para facilitar a manutenção das cores.
+O layout é centralizado e otimizado para responsividade, proporcionando uma boa experiência tanto em desktop quanto em dispositivos móveis.
 
-Botões com efeitos hover e transições suaves.
+## 🖥️ Tecnologias Utilizadas
 
-🎯 Objetivo: Criar um site visualmente agradável para destacar os produtos artesanais da padaria.
+HTML5 → Estrutura semântica do site
 
-📑 Sessões da Página
+CSS3 → Estilização, variáveis de cor e responsividade
 
-Cabeçalho – Logo e menu de navegação.
+Google Fonts → Fontes Poppins, Heebo e Lato
 
-Destaque – Título, subtítulo, texto de apresentação e imagem da vitrine.
+Font Awesome → Ícones de redes sociais
 
-Botão de Endereço – Link direto para localização da padaria.
+Favicon → Personalização do ícone da aba do navegador
 
-Produtos Artesanais – Pães, doces e pizzas, com descrição e imagens.
+## 📱 Responsividade
 
-Rodapé – Redes sociais e direitos autorais.
+O projeto utiliza media queries no arquivo responsive.css para garantir adaptação do layout em diferentes tamanhos de tela, reorganizando elementos e ajustando espaçamentos conforme necessário.
 
-📱 Responsividade
+## 📌 Funcionalidades
 
-O layout é totalmente responsivo, adaptando-se a diferentes tamanhos de tela:
+Layout responsivo
 
-Imagens ajustáveis automaticamente.
+Links para redes sociais
 
-Fontes e títulos proporcionais ao tamanho da tela.
+Botão de endereço
 
-Navegação adaptável para espaços menores.
+Imagens com bordas arredondadas e sombra
 
-Botões sempre acessíveis e clicáveis.
-
-✅ Testado em desktop, tablet e smartphone.
-
-🌐 Redes Sociais
-
-<i class="fab fa-facebook-square"></i> Facebook
-
-<i class="fab fa-instagram"></i> Instagram
-
-<i class="fab fa-tiktok"></i> TikTok
-
-🎨 Paleta de Cores
-Variável	Cor	Uso
---primary-color	#fff8f0	Fundo principal
---secondary-color	#5c3a21	Textos e destaques
---accent-color	#e7b56a	Botões e elementos de destaque
---highlight-color	#f5d6a1	Fundo do rodapé
---font-color	#3b1f0c	Texto padrão
-✨ Efeitos Visuais
-
-Transições suaves em botões e links.
-
-Mudança de cor no hover.
-
-Bordas arredondadas e sombras leves nas imagens.
-
-🛠 Créditos
-
-Projeto fictício desenvolvido para fins de estudo.
-
-Ícones: Font Awesome.
-
-Fontes: Google Fonts (Poppins, Heebo, Lato).
-
-Se você quiser, posso adicionar uma prévia visual da página com imagens no README para deixar mais profissional no GitHub. Isso ajudaria muito na apresentação.
+Uso de variáveis CSS para fácil manutenção
