@@ -29,12 +29,12 @@ Destacar o livro de forma simples, elegante e responsiva, incentivando a compra 
 
 ## 🎨 Estilo
 
-Paleta: verde, branco e preto
+- Paleta: verde, branco e preto
 
-Layout centralizado e tipografia Tahoma
+- Layout centralizado e tipografia Tahoma
 
-Botões com efeito hover
+- Botões com efeito hover
 
-Imagens otimizadas
+- Imagens otimizadas
 
-Responsivo para diferentes telas
+- Responsivo para diferentes telas
